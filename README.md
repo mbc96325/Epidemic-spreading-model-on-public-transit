@@ -1,5 +1,10 @@
 # Epidemic-spreading-model-on-public-transit
-Code for paper "Modeling Epidemic Spreading through Public Transit using Time-VaryingEncounter Network"
+Code for paper "Modeling Epidemic Spreading through Public Transit using Time-Varying Encounter Network"
+
+## Codes
+All python codes are in "code" folder. 
 
 ## Data
-Data is not avaiable due to privacy issues
+Raw data is not avaiable due to privacy issues. We generate sample data in "data" folder. 
+
+
